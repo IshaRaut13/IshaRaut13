@@ -5,8 +5,11 @@
 </p>
 
 ---
-### Here is my Resume
-https://drive.google.com/file/d/1seGo-q3j5BjLtYExcYJwqkE7qF4Si0sN/view?usp=sharing
+
+### 📝[My Resume](https://drive.google.com/file/d/1seGo-q3j5BjLtYExcYJwqkE7qF4Si0sN/view?usp=sharing)
+</p>
+
+---
 
 ### 👩‍💻 About Me
 
