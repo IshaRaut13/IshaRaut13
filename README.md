@@ -6,17 +6,17 @@
 
 ---
 
-### 📝[My Resume](https://drive.google.com/file/d/1seGo-q3j5BjLtYExcYJwqkE7qF4Si0sN/view?usp=sharing)
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 🎓 I’m a Third-year Computer Engineering student at **VCET, Vasai**  
 🌟 Passionate about **AI/ML**, **Backend Development**, and building smart tech  
 🧠 Love solving real-world problems through automation and innovation  
 🌐 Currently exploring: **Deep Learning**, **Cloud**, and **GenAI**  
+
+---
+
+### 📝[My Resume](https://drive.google.com/file/d/1seGo-q3j5BjLtYExcYJwqkE7qF4Si0sN/view?usp=sharing)
+</p>
 
 ---
 
