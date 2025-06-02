@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello, I'm Isha Raut ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=1500&lines=AI+%26+ML+Enthusiast+%7C+Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=1000&lines=AI+%26+ML+Enthusiast+%7C+Full-Stack+Web+Developer+%7C+Problem+Solver+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
