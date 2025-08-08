@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IshaRaut13/IshaRaut13/main/https://www.canva.com/design/DAGvgKSuSF0/lwn9rGpInBD4j_zVRT7slQ/edit?utm_content=DAGvgKSuSF0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.png" alt="Isha Raut Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/IshaRaut13/IshaRaut13/main/pink.png" alt="Isha Raut Banner" width="100%" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Isha Raut ✨</h1>
