@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IshaRaut13/IshaRaut13/main/.png" alt="Isha Raut Banner" width="100%" />
+</p>
+
 <h1 align="center">✨ Hello, I'm Isha Raut ✨</h1>
 
 <p align="center">
