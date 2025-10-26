@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 I’m a Third-year Computer Engineering student at **VCET, Vasai**  
+🎓 I’m a Final-year Computer Engineering student at **VCET, Vasai**  
 🌟 Passionate about **AI/ML**, **Backend Development**, and building smart tech  
 🧠 Love solving real-world problems through automation and innovation  
 🌐 Currently exploring: **Deep Learning**, **Cloud**, and **GenAI**  
